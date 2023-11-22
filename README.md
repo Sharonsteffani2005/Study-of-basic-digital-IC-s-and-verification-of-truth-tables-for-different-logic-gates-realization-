@@ -75,5 +75,7 @@ RTL
 TIMMING DIAGRAM
 
 ![DE 2](https://github.com/Sharonsteffani2005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979934/5a30c063-660a-4d2e-82ad-352e94b7e317)
+
 Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
