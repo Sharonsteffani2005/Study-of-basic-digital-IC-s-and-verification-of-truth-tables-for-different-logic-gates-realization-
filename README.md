@@ -66,7 +66,11 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 Output:
+![DE 3](https://github.com/Sharonsteffani2005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979934/03b58560-a8db-4bb2-9f6f-4c25bbcb4a30)
 RTL
+![DE 4](https://github.com/Sharonsteffani2005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979934/d5ba3752-bd79-4094-a3f9-ccc69b990f04)
+TIMMING DIAGRAM
+![DE 2](https://github.com/Sharonsteffani2005/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979934/5a30c063-660a-4d2e-82ad-352e94b7e317)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
